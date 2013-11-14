@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AlignTab",
+		"Browser Refresh",
+		"Package Control",
+		"Robot Framework",
+		"SFTP"
+	],
+	"repositories":
+	[
+		"https://github.com/gcollazo/BrowserRefresh-Sublime"
+	]
+}

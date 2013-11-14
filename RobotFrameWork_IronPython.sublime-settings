@@ -1,0 +1,4 @@
+{
+	"cmd": ["ipybot.bat Tests"],
+	"working_dir": "${project_path}"
+}

@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"CTags",
+		"Vintage",
+		"SFTP",
+		"Robot Framework"
+	]
+}

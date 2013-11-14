@@ -1,0 +1,5 @@
+{
+    "working_dir": "${project_path",
+    "cmd": ["C:\\dev\\virtualenvs\\robotframework\\Scripts\\python.exe", 
+    "-m", "robot.run", "$file"]
+}
